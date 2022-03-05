@@ -1,0 +1,10 @@
+{
+  "version" : "1.0",
+  "author" : "patman",
+  "description" : "uses the sounds from Black Mesa instead of Half-Life, because h\n\nwow\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar",
+  "name" : "pat_xenhealing_bm",
+  "friendlyName" : "black mesa xen healing water sound",
+  "steamContentId" : "2773254508",
+  "link" : "steam://url/CommunityFilePage/2773254508",
+  "includes" : ["pat_xenhealing"]
+}
