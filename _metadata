@@ -1,10 +1,12 @@
 {
-  "version" : "1.0",
   "author" : "patman",
-  "description" : "uses the sounds from Black Mesa instead of Half-Life, because h\n\nwow\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar",
-  "name" : "pat_xenhealing_bm",
+  "description" : "uses the sounds from Black Mesa instead of Half-Life, because h\n",
   "friendlyName" : "black mesa xen healing water sound",
-  "steamContentId" : "2773254508",
+  "includes" : ["pat_xenhealing"],
   "link" : "steam://url/CommunityFilePage/2773254508",
-  "includes" : ["pat_xenhealing"]
+  "name" : "pat_xenhealing_bm",
+  "steamContentId" : "2773254508",
+  "steamDescription" : "patch for [url=https://steamcommunity.com/workshop/filedetails/?id=2771298878]xen healing water sound[/url] to use the sounds from Black Mesa \n\nwow\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/bm-xen-healing-water-sound",
+  "tags" : "Miscellaneous",
+  "version" : "1.0.1"
 }
